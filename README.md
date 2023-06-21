@@ -1,6 +1,6 @@
 # Prep Course: Airflow Fundamentals
 
-Repositório das aulas preparativas pra a certificação Apache Airflow Fundamentals da Astronomer Academy.
+Repositório do curso preparatório pra a certificação Apache Airflow Fundamentals da Astronomer Academy.
 ##
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/emersonmcostaa/airflow_fundamentos/blob/main/LICENSE) 
 ##
